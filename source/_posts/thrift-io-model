@@ -6,9 +6,18 @@ tags:
 - RPC
 ---
 
-# RPC框架之Thrift
+# RPC框架之Thrifts
 
-服务模型分以下几种：
+1、什么是Thrift？
+>待更新
+
+2、怎么生成Thrift代码？
+>待更新
+
+3、如何使用Thrift进行RPC通信？
+>待更新
+
+4、有哪几种服务模型？
 1、TSimpleServer 单线程服务模型：阻塞式IO
 2、TThreadPoolServer 线程池服务模型：阻塞式IO，预先创建一组线程处理请求
 3、TNonblockingServer 非阻塞式IO服务模型：Client和Server都需要指定TFramedTransport数据传输方式。
