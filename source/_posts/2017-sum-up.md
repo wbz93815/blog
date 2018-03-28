@@ -18,6 +18,8 @@ __一直以来喜欢逛别人的博客，发现他们都有一些共同的特性
 
 >也就是，我们常常听到的一句话：“你十年的工作经验，还不如人家刚毕业一年”
 
+<!-- more -->
+
 # 回顾总结
 
 **多一个招商银行** 自从二胎计划开放之后，家里亲戚就开始叨叨，反而家里人都是平常心对待（可能没有表现出来吧，毕竟家庭压力还蛮大）；就在我们犹豫不觉的时候，天使就降临了，这下终于如她们所愿了。
@@ -31,9 +33,10 @@ PS：废话不多说，上图嘚瑟下。
 
 <center>![东南亚版的烤鸭饭](https://wx3.sinaimg.cn/mw1024/9c88ebb3ly1fpcbqkmepuj20sg0lc44u.jpg "东南亚版的烤鸭饭")</center>
 <center>东南亚版的烤鸭饭</center>
-
+<br>
 <center>![漂流](https://wx2.sinaimg.cn/mw1024/9c88ebb3gy1ffwt6pz2fgj20zk0qodwd.jpg "漂流")</center>
 <center>巴厘岛上玩漂流</center>
+
 
 <center>![与妹纸的合影](https://wxt.sinaimg.cn/thumb300/9c88ebb3gy1ffuz53sd8oj20qo0zk0zr.jpg "国外同事的合影")  ![与妹纸的合影](https://wxt.sinaimg.cn/thumb300/9c88ebb3ly1fpcbqkm6p6j20lc0sgq70.jpg "国外同事的合影")</center>
 <center>印尼的同事与我的合影、半夜被这小伙喊出去“大保健”</center>

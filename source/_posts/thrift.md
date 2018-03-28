@@ -18,6 +18,8 @@ Windows下安装方式，请戳 [链接](https://thrift.apache.org/docs/install/
 Mac os x下安装方式，请戳 [链接](https://thrift.apache.org/docs/install/os_x)
 Debian、Ubuntu下安装方式，请戳[链接](https://thrift.apache.org/docs/install/debian)
 
+<!-- more -->
+
 # Thrift 数据类型
 
 **基本类型**
