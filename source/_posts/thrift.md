@@ -4,6 +4,7 @@ date: 2018-03-28 14:59:36
 tags:
 - Thrift
 - RPC
+- 技术
 ---
 # Thrift介绍
 
