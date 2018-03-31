@@ -5,6 +5,12 @@ description: 从事互联网研发工作，擅长后端类研发工作-PHP；近
 author: Baozhou.wang
 language: en
 timezone: UTC
+keywords: "计算机,互联网,技术,研发,工程师,程序员,开发者,攻城狮,程序猿,后端,PHP"
+
+url: http://baozhou.wang
+
+source_dir: source
+public_dir: public
 
 theme: yilia
 
