@@ -23,6 +23,18 @@ total 15733292
 ```
 
 ```
+=INFO REPORT==== 2-Apr-2018::14:49:31 ===
+accepting AMQP connection <0.1468.0> (10.19.116.71:44660 -> 10.19.121.25:5672)
+
+=INFO REPORT==== 2-Apr-2018::14:49:31 ===
+connection <0.1468.0> (10.19.116.71:44660 -> 10.19.121.25:5672): user 'advertisement' authenticated and granted access to vhost 'ad'
+
+=INFO REPORT==== 2-Apr-2018::14:49:31 ===
+closing AMQP connection <0.1468.0> (10.19.116.71:44660 -> 10.19.121.25:5672, vhost: 'ad', user: 'advertisement')
+```
+
+
+```
 [root@10-19-121-25 rabbitmq]# rm rabbit\@10-19-121-25.log
 ```
 
