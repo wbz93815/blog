@@ -1,3 +1,12 @@
+---
+title: 总结RabbitMQ线上故障修复的过程
+date: 2018-04-02 16:22:28
+tags:
+- RabbitMQ
+- 技术
+- 总结
+---
+
 ```
 [root@10-19-121-25 ~]# df -h
 Filesystem      Size  Used Avail Use% Mounted on
