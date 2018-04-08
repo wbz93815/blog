@@ -11,16 +11,16 @@ tags:
 - 自主配置学习
 - 提升博客打开速度
 
-### HTTP 2.0 特性
+### 简述HTTP 2.0特性
 
 - `使用二进制格式传输数据` 也就是0和1的组合；而1.x的版本是文本的格式，野史称：文本格式解析存在缺陷，文本的表现形式存在多样性，无法兼容各种各样的场景。
 - `连接共享（多路复用）` 直白的理解：所有请求都可以在一个TCP连接并发完成；而1.x的版本，是建立N个链接来完成N个请求。
 - `Header压缩` 在1.x版本中，header中的Cookie和UserAgent很容易膨胀，每次都要重复发送；因此，2.0版本client、server端都缓存了一份header数据，同时，还使用了压缩算法对header进行压缩，避免了重复header的传输，减少了数据传输的大小。
 - `服务端推送` Client请求Server页面内容时，Server会自动将页面所需要的其它资源发送给Client。举个例子：网页上有一个style.css的请求，在Client收到style.css数据的同时，Server会将style.js的文件推送给Client，当Client再次尝试获取style.js时就可以直接从缓存中获取到，不用再发请求了。
 
-### 配置过程
-
 <!-- more -->
+
+### 配置过程
 
 ##### 安装依赖
 由于我的web服务器用的是Nginx，因此就它为例；要使用http2.0，须依赖两个模块 http_ssl_module（https）、http_v2_module（http 2.0）。安装方式分两种：
