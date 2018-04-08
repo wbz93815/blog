@@ -1,5 +1,5 @@
 ---
-title: 博客升级HTTP2.0的过程
+title: 博客升级Http2.0的过程
 date: 2018-04-02 18:20:28
 tags:
 - HTTP2.0
@@ -11,7 +11,7 @@ tags:
 - 自主配置学习
 - 提升博客打开速度
 
-### 简述HTTP 2.0特性
+**简述HTTP 2.0特性**
 
 - `使用二进制格式传输数据` 也就是0和1的组合；而1.x的版本是文本的格式，野史称：文本格式解析存在缺陷，文本的表现形式存在多样性，无法兼容各种各样的场景。
 - `连接共享（多路复用）` 直白的理解：所有请求都可以在一个TCP连接并发完成；而1.x的版本，是建立N个链接来完成N个请求。
@@ -20,15 +20,17 @@ tags:
 
 <!-- more -->
 
-### 配置过程
+**配置过程**
 
-##### 安装依赖
+`安装依赖`
+
 由于我的web服务器用的是Nginx，因此就它为例；要使用http2.0，须依赖两个模块 http_ssl_module（https）、http_v2_module（http 2.0）。安装方式分两种：
 
-**全新安装Nginx** 
+`全新安装Nginx`
+
 编译安装时，在./configure后加上 **--with-http_ssl_module**、 **--with-http_v2_module**，然后继续执行make、make install等之类的操作，这里不再详细描述。
 
-**已安装Nginx，但缺少两个模块** 
+`已安装Nginx，但缺少两个模块`
 
 1、先通过nginx -V，获取历史安装的配置信息，如下：
 ```
@@ -74,13 +76,13 @@ server {
 6、最后，测试配置无误后，然后重启Nginx。
 > 这里必须先kill掉Nginx进程，再启动，才能生效http2.0；我使用nginx -s reload始终不生效。
 
-#### 性能对比
+**性能对比**
 
-通过下图，页面打开速度明显提升了12.6%。
+通过下图，`页面打开速度明显提升了12.6%`。
 
-<center>![使用http2.0之前](https://baozhou.wang/uploads/2018/http2_before.png "使用http2.0之前")</center>
 <center>使用http2.0之前</center>
+<center>![使用http2.0之前](https://baozhou.wang/uploads/2018/http2_before.png "使用http2.0之前")</center>
 
-<center>![使用http2.0之后](https://baozhou.wang/uploads/2018/http2_after.png  "使用http2.0之后")</center>
 <center>使用http2.0之后</center>
+<center>![使用http2.0之后](https://baozhou.wang/uploads/2018/http2_after.png  "使用http2.0之后")</center>
 
