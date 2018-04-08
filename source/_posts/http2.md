@@ -20,6 +20,8 @@ tags:
 
 ### 配置过程
 
+<!-- more -->
+
 ##### 安装依赖
 由于我的web服务器用的是Nginx，因此就它为例；要使用http2.0，须依赖两个模块 http_ssl_module（https）、http_v2_module（http 2.0）。安装方式分两种：
 
