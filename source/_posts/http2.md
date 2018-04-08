@@ -82,7 +82,7 @@ server {
 
 <center>使用http2.0之前</center>
 <center>![使用http2.0之前](https://baozhou.wang/uploads/2018/http2_before.png "使用http2.0之前")</center>
-
+<br>
 <center>使用http2.0之后</center>
-<center>![使用http2.0之后](https://baozhou.wang/uploads/2018/http2_after.png  "使用http2.0之后")</center>
+<center>![使用http2.0之后](https://baozhou.wang/uploads/2018/http2_after.png "使用http2.0之后")</center>
 
