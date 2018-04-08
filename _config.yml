@@ -3,11 +3,11 @@ title: Baozhou.wang Blog
 subtitle: PHP Developer
 description: 从事互联网研发工作，擅长后端类研发工作-PHP；近期学习JAVA、GO。
 author: Baozhou.wang
-language: en
-timezone: UTC
+language: zh-Hans
+timezone: 
 keywords: "计算机,互联网,技术,研发,工程师,程序员,开发者,攻城狮,程序猿,后端,PHP"
 
-url: http://baozhou.wang
+url: https://baozhou.wang
 
 source_dir: source
 public_dir: public
@@ -32,3 +32,11 @@ jsonContent:
       excerpt: false
       categories: false
       tags: true
+
+# disqus_proxy:
+#  shortname: baozhou-wang
+#  username: baozhou.wang
+#  host: comment.baozhou.wang
+#  port: 5509
+
+
