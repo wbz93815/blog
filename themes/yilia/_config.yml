@@ -1,19 +1,19 @@
 # Header
 
 menu:
-  主页: /
-  所有文章: /archives
-  随笔: /tags/随笔/
-  技术: /tags/技术/
+  主页: https://baozhou.wang/
+  所有文章: https://baozhou.wang/archives
+  随笔: https://baozhou.wang/tags/随笔/
+  技术: https://baozhou.wang/tags/技术/
 
 # SubNav
 subnav:
   github: "https://github.com/wbz93815"
   weibo: "https://weibo.com/wangbaozhou"
-  rss: "/atom.xml"
+  rss: "https://baozhou.wang/atom.xml"
   #zhihu: "#"
   #qq: "#"
-  #weixin: "#"
+  weixin: "wangbaozhou001"
   #jianshu: "#"
   #douban: "#"
   #segmentfault: "#"
@@ -25,12 +25,12 @@ subnav:
   #twitter: "#"
   #linkedin: "#"
 
-rss: /atom.xml
+rss: https://baozhou.wang/atom.xml
 
 # 是否需要修改 root 路径
 # 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
 # 请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
-root: /
+root: https://baozhou.wang/
 
 # Content
 
@@ -49,9 +49,9 @@ reward_type: 2
 # 打赏wording
 reward_wording: '谢谢你请我吃糖果'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
-alipay: http://baozhou.wang/static/ali_pay.jpeg
+alipay: http://img.baozhou.wang/static/ali_pay.jpeg
 # 微信二维码图片地址
-weixin: http://baozhou.wang/static/wechat_pay.jpeg
+weixin: http://img.baozhou.wang/static/img/wechat_pay.jpeg
 
 # 目录
 # 目录设定：0-不显示目录； 1-文章对应的md文件里有toc:true属性，才有目录； 2-所有文章均显示目录
@@ -119,10 +119,10 @@ slider:
 #  friends: false
 smart_menu:
   innerArchive: '所有文章'
-  friends: '友链'
+  friends: '领友'
   aboutme: '关于我'
 
 friends:
-  Tiki’s Blog: http://www.tikiliu.com/
+  Tiki’s Blog: https://www.tikiliu.com/
 
 aboutme: 85后，天蝎男，来自江苏<br>毕业于 华东师范大学-计算机专业<br>就职于 上海某科技公司<br><br>爱好：航拍、钓鱼<br>擅长：iPhone7以下机型配件更换<br><br>保剑锋从磨砺出，梅花香自苦寒来
