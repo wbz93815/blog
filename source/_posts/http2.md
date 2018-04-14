@@ -52,10 +52,7 @@ configure arguments: --prefix=/usr/local/nginx-1.13.9 --error-log-path=/data/log
 
 4、备份安装目录中的Nginx，拷贝源码目录中的Nginx到安装目录sbin中，如下：
 ```
-[root@VM_0_4_centos nginx-1.13.9]# mv /usr/local/nginx-1.13.9/sbin/nginx /usr/local/nginx-1.13.9/sbin/nginx.bak
-[root@VM_0_4_centos nginx-1.13.9]# cp ./objs/
-autoconf.err        nginx               ngx_auto_config.h   ngx_modules.c       src/                
-Makefile            nginx.8             ngx_auto_headers.h  ngx_modules.o       
+[root@VM_0_4_centos nginx-1.13.9]# mv /usr/local/nginx-1.13.9/sbin/nginx /usr/local/nginx-1.13.9/sbin/nginx.bak    
 [root@VM_0_4_centos nginx-1.13.9]# cp ./objs/nginx /usr/local/nginx-1.13.9/sbin/
 ```
 
