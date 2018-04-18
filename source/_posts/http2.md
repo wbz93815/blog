@@ -77,6 +77,6 @@ server {
 **性能对比**
 
 通过下图(分别是使用http2.0之前、使用http2.0之后)，`页面打开速度明显提升了12.6%`。
-<center>![使用http2.0之前](http://img.baozhou.wang/2018/http2_before.png "使用http2.0之前")</center>
-<center>![使用http2.0之后](http://img.baozhou.wang/2018/http2_after.png "使用http2.0之后")</center>
+<center>![使用http2.0之前](https://file.baozhou.wang/2018/http2_before.png "使用http2.0之前")</center>
+<center>![使用http2.0之后](https://file.baozhou.wang/2018/http2_after.png "使用http2.0之后")</center>
 
