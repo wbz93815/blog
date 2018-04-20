@@ -11,7 +11,6 @@ tags:
 > 搞了多年的PHP的研发，针对Composer却还是那么熟悉又陌生，很是尴尬；由于最近要入坑Laravel，所以再了解下它的“前世今生”。
 
 **Composer的出生**
-
 Composer 是由国外的两位PHP大佬（Nils Adermann && Jordi Boggiano）开发，并且于2012年3月1日发布。Composer 是PHP包的管理器，说白了就是PHP项目依赖包的仓库。它是为了`解决项目中需要引入各种版本的库`而生。
 
 **安装方式**
