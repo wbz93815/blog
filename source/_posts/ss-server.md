@@ -17,7 +17,9 @@ tags:
 ---------
 
 2、**编译提示错误：`configure: error: The Sodium crypto library libraries not found.`**
+
 <!-- more -->
+
 **解决方案**：是因为执行过程系统找不到 libsodium 的扩展。由于我是编译安装的 libsodium；因此，只要在编译过程中，指定 libsodium 安装目录相关文件目录的位置即可 `--with-sodium-include=/usr/local/libsodium-1.0.12/include/ --with-sodium-lib=/usr/local/libsodium-1.0.12/lib/`。
 
 ---------
