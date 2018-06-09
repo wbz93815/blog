@@ -60,4 +60,7 @@ php -r "unlink('composer-setup.php');"
 Composer version 1.6.4 2018-04-13 12:04:24
 ```
 
-> 关于Composer更全面的资料，请参考 [Composer 中文官网](https://www.phpcomposer.com)
+另外，在使用过程中，本地PHP版本与compose.json的版本不符，导致安装or更新包失败；解决方法就是在命令后加上`--ignore-platform-reqs`
+
+
+> 这里的内容九牛一毛，想要了解更加详细的，可以翻翻 [Composer 中文官网](https://www.phpcomposer.com)
