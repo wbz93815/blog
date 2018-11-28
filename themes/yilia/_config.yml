@@ -66,12 +66,7 @@ top: true
 
 # Miscellaneous
 baidu_analytics: 'de1f4e1c67ec74fb9b669cef948ba940'
-google_analytics:
-  enable: true
-  ## e.g. UA-82900755-1 your google analytics ID.
-  id: UA-130022409-1
-  ## e.g. yangjian.me your google analytics site or set the value as auto.
-  site: auto
+google_analytics: 'UA-130022409-1'
 favicon: /favicon.png
 
 #你的头像url
