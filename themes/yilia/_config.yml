@@ -105,7 +105,7 @@ gitalk:
   enable: true    #用来做启用判断可以不用
   clientID: '664b38e6255b8ac0547f'    #Github上生成的
   clientSecret: '3978f7a4fbcb24e3dc29538bc0c8948bb13dd6e4'   #同上
-  repo: git_comment    #评论所在的github project
+  repo: baozhou-blog-commet    #评论所在的github project
   owner: wbz93815    #github用户名
   admin: wbz93815    #可以初始化评论issue的github账户名称
   distractionFreeMode: true
