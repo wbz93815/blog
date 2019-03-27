@@ -109,6 +109,7 @@ gitalk:
   owner: wbz93815    #github用户名
   admin: wbz93815    #可以初始化评论issue的github账户名称
   distractionFreeMode: true
+  labels: ['Gitalk']
 
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
