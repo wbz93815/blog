@@ -9,7 +9,6 @@
           owner: '{{ theme.gitalk.githubID }}',
           admin: ['{{ theme.gitalk.adminUser }}'],
           id: location.pathname,
-          labels: '{{ theme.gitalk.labels }}',
           distractionFreeMode: '{{ theme.gitalk.distractionFreeMode }}'
         })
         gitalk.render('gitalk-container')           
