@@ -426,6 +426,7 @@ gitalk:
   ClientSecret: 3978f7a4fbcb24e3dc29538bc0c8948bb13dd6e4
   adminUser: wbz93815 #指定可初始化评论账户
   distractionFreeMode: true
+  labels: ['Gitalk']
 
 # Baidu Share
 # Available value:
