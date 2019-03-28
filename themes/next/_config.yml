@@ -93,7 +93,7 @@ index_with_subtitle: false
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
   home: / || home
-  # about: /about/ || user
+  about: /about/ || user
   #tags: /tags/ || tags
   #categories: /categories/ || th
   #archives: /archives/ || archive
@@ -158,7 +158,7 @@ links:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-#avatar: /images/avatar.gif
+avatar: https://tvax4.sinaimg.cn/crop.0.0.884.884.180/9c88ebb3ly8fpstt0d7wuj20ok0okt9v.jpg
 
 # Table Of Contents in the Sidebar
 toc:
