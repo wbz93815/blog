@@ -1,7 +1,7 @@
 # Site
 title: Baozhou.Wang Blog
 subtitle: PHP Developer
-description: 从事互联网研发工作，擅长后端类研发工作-PHP；近期学习JAVA、GO。
+description: 从事互联网金融相关的研发工作，擅长后端类研发工作-PHP；近期学习GO。
 author: Baozhou.Wang
 language: zh-Hans
 timezone: 
@@ -12,7 +12,7 @@ url: https://baozhou.wang
 source_dir: source
 public_dir: public
 
-theme: yilia
+theme: next
 
 jsonContent:
     meta: false
@@ -33,10 +33,10 @@ jsonContent:
       categories: false
       tags: true
 
-# disqus_proxy:
-#  shortname: baozhou-wang
-#  username: baozhou.wang
-#  host: comment.baozhou.wang
-#  port: 5509
+
+
+
+
+
 
 
