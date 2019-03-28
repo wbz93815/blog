@@ -1,10 +1,11 @@
 ---
 title: 全局安装Composer
 date: 2018-04-19 12:03:15
+categories:
+- 技术
 tags:
 - Composer
 - php
-- 技术
 - 2018
 ---
 

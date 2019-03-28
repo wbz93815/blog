@@ -1,10 +1,11 @@
 ---
 title: 博客升级Http2.0的过程
 date: 2018-04-08 18:20:28
+categories:
+- 技术
 tags:
 - HTTP2.0
 - Nginx
-- 技术
 - 2018
 ---
 

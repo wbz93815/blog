@@ -1,6 +1,8 @@
 ---
 title: 针对Go语言defer技术的理解
 date: 2019-03-26 21:25:18
+categories:
+- 技术
 tags:
 - Defer
 - go

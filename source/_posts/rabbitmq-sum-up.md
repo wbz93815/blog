@@ -1,9 +1,10 @@
 ---
 title: 总结今日RabbitMQ线上故障修复的过程
 date: 2018-04-02 16:22:28
+categories:
+- 技术
 tags:
 - RabbitMQ
-- 技术
 - 总结
 - 2018
 ---

@@ -1,10 +1,11 @@
 ---
 title: Thrift框架的介绍及使用
 date: 2018-03-28 14:59:36
+categories:
+- 技术
 tags:
 - Thrift
 - RPC
-- 技术
 - 2018
 ---
 # Thrift介绍

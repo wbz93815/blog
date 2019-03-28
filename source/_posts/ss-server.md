@@ -1,8 +1,10 @@
 ---
 title: 总结今日安装SS遇到的坑
 date: 2018-04-27 16:14:38
-tags:
+categories:
 - 技术
+tags:
+- ss
 - 2018
 ---
 
