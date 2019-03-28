@@ -93,13 +93,16 @@ index_with_subtitle: false
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
   home: / || home
-  about: /about/ || user
-  tags: /tags/ || tags
+  # about: /about/ || user
+  #tags: /tags/ || tags
   #categories: /categories/ || th
-  archives: /archives/ || archive
+  #archives: /archives/ || archive
   #schedule: /schedule/ || calendar
-  sitemap: /sitemap.xml || sitemap
+  # sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
+  所有文章: https://baozhou.wang/archives || archive
+  随笔: https://baozhou.wang/tags/随笔/ || tags
+  技术: https://baozhou.wang/tags/技术/ || tags
 
 # Enable/Disable menu icons.
 menu_icons:
@@ -353,7 +356,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: de1f4e1c67ec74fb9b669cef948ba940
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -465,7 +468,7 @@ needmoreshare2:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-130022409-1
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster/
