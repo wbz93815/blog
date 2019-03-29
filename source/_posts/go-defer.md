@@ -6,7 +6,6 @@ categories:
 tags:
 - Defer
 - go
-- 技术
 - 2019
 ---
 
