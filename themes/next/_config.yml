@@ -381,11 +381,11 @@ changyan:
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
 valine:
-  enable: false
-  appid:  # your leancloud application appid
-  appkey:  # your leancloud application appkey
-  notify: false # mail notifier , https://github.com/xCss/Valine/wiki
-  verify: false # Verification code
+  enable: true
+  appid: mJqkgRVS3f0kC5rRBqnaG0Bc-MdYXbMMI # your leancloud application appid
+  appkey: aJGIjjBV30cT8O9G78sw5z2U # your leancloud application appkey
+  notify: true # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: true # Verification code
   placeholder: Just go go # comment box placeholder
   avatar: mm # gravatar style
   guest_info: nick,mail,link # custom comment header
@@ -418,7 +418,7 @@ gitment:
   redirect_protocol: # Protocol of redirect_uri with force_redirect_protocol when mint enabled
 
 gitalk:
-  enable: true
+  enable: false
   githubID: wbz93815  # 例：asdfv1929   
   repo: baozhou-blog-commet   # 例：asdfv1929.github.io
   ClientID: 664b38e6255b8ac0547f
