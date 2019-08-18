@@ -352,7 +352,7 @@
       </div>
     {% endif %}
     
-    {% if not is_index %}
+    {% if theme.passage_end_tag.enabled and not is_index %}
       <div>
         {% include 'passage-end-tag.swig' %}
       </div>
