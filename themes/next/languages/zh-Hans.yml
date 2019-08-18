@@ -35,6 +35,7 @@ post:
   min2read: 阅读时长
   totalcount: Site words total count
   copyright:
+    title: 本文标题
     author: 本文作者
     link: 本文链接
     license_title: 版权声明
