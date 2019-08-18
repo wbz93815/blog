@@ -428,7 +428,7 @@ gitalk:
   labels: ['Gitalk']
 
 #Share
-sharesdk: true
+sharesdk: false
 shareSDKappkey: 2c1b20f87ec2c
 
 # Baidu Share
