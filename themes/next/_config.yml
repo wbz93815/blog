@@ -427,6 +427,10 @@ gitalk:
   distractionFreeMode: true
   labels: ['Gitalk']
 
+#Share
+sharesdk: true
+shareSDKappkey: 2c1b20f87ec2c
+
 # Baidu Share
 # Available value:
 #    button | slide
