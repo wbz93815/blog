@@ -1,3 +1,15 @@
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 文章页的底部 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5592117265008670"
+     data-ad-slot="7270497112"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 {% if page.comments %}
 
   {% if (theme.duoshuo and theme.duoshuo.shortname) or theme.duoshuo_shortname %}
