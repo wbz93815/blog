@@ -245,7 +245,7 @@ post_wordcount:
   #description: ex. subscribe to my blog by scanning my public wechat account
 
 # Reward
-reward_comment:您的支持，将鼓励我继续创作！
+reward_comment: 您的支持，将鼓励我继续创作！
 wechatpay: https://static.baozhou.wang/img/wechat_pay.jpeg
 alipay: https://static.baozhou.wang/img/ali_pay.jpeg
 #bitcoin: /images/bitcoin.png
@@ -828,3 +828,4 @@ version: 5.1.4
 # 文章末尾添加“本文结束”标记
 passage_end_tag:
   enabled: false
+  
