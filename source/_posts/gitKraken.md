@@ -24,6 +24,8 @@ brew install yarn
 127.0.0.1 release.gitkraken.com
 ```
 
+<!-- more -->
+
 ### 登陆 gitkraken
 
 可以自己注册一个账号
