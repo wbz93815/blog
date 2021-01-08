@@ -40,7 +40,7 @@
 #}</div>
 {% endif %}
 
-<div class="footer-custom"><a class="theme-link" target="_blank" href="href="http://beian.miit.gov.cn/"">苏ICP备18015164号-1</a></div>
+<div class="footer-custom"><a class="theme-link" target="_blank" href="href="https://beian.miit.gov.cn/">苏ICP备18015164号-1</a></div>
 
 {% if theme.footer.custom_text %}
   <div class="footer-custom">{#
